@@ -1,2 +1,4 @@
-# novatronix
-Monorepo for the NovaTronix (Electronix) sector.
+# NovaTronix Sector
+
+Welcome to the `NovaTronix` Vertical Sector.
+Sustainable electronics, modular design, repair.
