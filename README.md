@@ -44,7 +44,7 @@ graph TD
     end
 
     subgraph "The Value Chain"
-        API -->|Update History| Mat[NovaMaterial (DPP)]
+        API -->|Update History| Mat["NovaMaterial (DPP)"]
         API -->|Sell Spare Part| Trade[NovaTrade]
         API -->|Log E-Waste| Recycle[NovaRecycle]
     end
